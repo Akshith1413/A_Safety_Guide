@@ -10,7 +10,10 @@
 
 ### 3) Run ``` flutter pub get ``` install all those dependencies
 
-### 4) Run `` flutter run `` and choose your desired platform 
+### 4) Move the files to lib folder
+
+### 5) Run `` flutter run `` and choose your desired platform 
+
 
 #       Thank You From My Team
 
